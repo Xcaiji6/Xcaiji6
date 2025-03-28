@@ -4,12 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [当前项目]
-- 🌱 I'm currently learning [正在学习的技术]
-- 👯 I'm looking to collaborate on [想合作的项目类型]
-- 💬 Ask me about [你擅长的领域]
-- 📫 How to reach me: [你的联系方式]
-- ⚡ Fun fact: [有趣的小事实]
+- 💬 Ask me about [一个脚本小子罢了]
 
 ## 📈 GitHub Stats
 
