@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [一个小Caiji]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger;Problem+Solver)](https://git.io/typing-svg)
+[![Hacker whoami](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F718&lines=root%40null:~%24+whoami;sleep+1;echo+"%5B%2A%5D+UID%3A+0+%28root%29";sleep=1;echo+"%5B%2A%5D+GID%3A+0xDEADBEEF";)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
