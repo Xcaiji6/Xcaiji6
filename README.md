@@ -1,68 +1,62 @@
-<h1 align="center">Hi there 👋 I'm <code>一个小Caiji</code></h1>
+# Hi there 👋 I'm [一个小Caiji]
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=root@null:~$+whoami;[*]+UID:+0+(root);[*]+GID:+0xDEADBEEF" alt="Typing SVG" />
-</p>
+[![Hacker whoami](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F718&lines=root%40null:~%24+whoami;sleep+1;echo+"%5B%2A%5D+UID%3A+0+%28root%29";sleep=1;echo+"%5B%2A%5D+GID%3A+0xDEADBEEF";)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
 ```bash
 > whoami
-└── 一个脚本小子罢了.
+└── 一个脚本小子罢了
 
-> skills --list
-├─ Shell / Bash
-├─ Python 🐍
-├─ JS & Node.js
-├─ Linux 爱好者
-├─ 网络安全 & CTF 挖洞中
-└─ 持续成长ing...
+> echo $INTERESTS
+└── Linux • Shell • Python • CTF • 自动化 • 安全研究
 ```
 
-> 🎯 “广度决定视野，深度决定价值”
+- 🧪 爱写工具，偶尔挖洞
+- 🔁 喜欢把重复的事自动化
 
 ---
 
-## 🚀 Tech Arsenal
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,vim,js,github,git,docker,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vscode,js,html,css" />
 </p>
+
+---
+
+## 📂 Current Projects
+
+```bash
+┌──(xcaiji㉿null)-[~/projects]
+└─$ ls
+📁 auto-recon-tools
+📁 linux-utils
+📁 weird-scripts
+└─$ cat now.md
+[✓] 自动化脚本合集 (Python + Bash)
+[✓] 信息收集工具
+[ ] 渗透小工具写到一半
+```
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xcaiji6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaiji6&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcaiji6&show_icons=true&theme=radical)](https://github.com/Xcaiji6)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaiji6&layout=compact&theme=radical)](https://github.com/Xcaiji6)
 
 ---
 
-## 🔍 Current Projects
+## 👀 Visitor Count
 
-```bash
-┌──(xcaiji㉿null)-[~/now]
-└─$ cat TODO.md
-[+] 自动化脚本集合 🧩
-[+] 渗透测试工具学习 🛠
-[ ] 写点奇奇怪怪的小程序 🌱
-[ ] 保持好奇，持续打怪升级 🚀
-```
-
----
-
-## 👁‍🗨 Visitors
-
-<p align="center">
+<p align="center"> 
   <img src="https://profile-counter.glitch.me/Xcaiji6/count.svg" />
 </p>
 
 ---
-## ☕ Keep in Touch
----
 
-> 💡 “Talk is cheap. Show me the code.” – Linus Torvalds
+> 💡 “懒是第一生产力，脚本是最好的解药。”
